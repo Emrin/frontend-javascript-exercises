@@ -1,2 +1,3 @@
-module.exports.hello = function() {
-  return "Hello World";
+module.exports.hello = function describe() {
+  return "Hello World"
+}

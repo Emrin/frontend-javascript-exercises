@@ -8,5 +8,5 @@ describe("hello", function() {
 
   it("should return 'Hello World'", function() {
     expect(challenge.hello()).to.equal("Hello World");
-  });
+  })
 });
