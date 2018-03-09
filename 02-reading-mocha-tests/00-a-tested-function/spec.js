@@ -9,4 +9,4 @@ describe("linkTo", function() {
   it("should return a valid link for Bloc", function() {
     expect(challenge.linkTo("http://www.bloc.io", "Bloc")).to.eql("<a href='http://www.bloc.io'>Bloc</a>");
   });
-});
+}); //
